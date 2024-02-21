@@ -1,4 +1,4 @@
-DATA_DIR_PATH = "C:\Users\atrij\OneDrive\Desktop\7_AI_Financial_Advisor\data"
+DATA_DIR_PATH = "C:\Users\atrij\OneDrive\Desktop\MenstruationBot\data"
 CHUNK_SIZE = 500
 CHUNK_OVERLAP = 200
 EMBEDDER = "BAAI/bge-base-en-v1.5"
@@ -22,4 +22,4 @@ MODEL_CKPT = "mistral-7b-openorca.Q4_K_S.gguf"
 MODEL_TYPE = "llama"
 MAX_NEW_TOKENS = 512
 TEMPERATURE = 0.3
-# WEAVIATE_API_KEY = 'BxHXpnO5Dw9zb8F60Bp6uDqK3MHUONf4EXJm'
+WEAVIATE_API_KEY = '................'
